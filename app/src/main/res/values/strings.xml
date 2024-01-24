@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- tela_inicial strings -->
+
+    <string name="app_name">Page 1</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="empresa_string">EMPRESA</string>
+    <string name="passageiro_string">PASSAGEIRO</string>
+    <string name="bem_vindo_a___string">Bem-Vindo(a)!</string>
+    <string name="riomobi_string">RioMobi</string>
+</resources>

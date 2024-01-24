@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "379875439554",
+    "firebase_url": "https://rio-mobi-default-rtdb.firebaseio.com",
+    "project_id": "rio-mobi",
+    "storage_bucket": "rio-mobi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379875439554:android:96c8021b430d445d515c5b",
+        "android_client_info": {
+          "package_name": "com.example.rio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1TMn2LrFxyEyXLkCbUpyiluLBXejtDog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- Cor de fundo da View -->
+    <corners android:radius="60dp" /> <!-- Raio da borda em dp -->
+</shape>
